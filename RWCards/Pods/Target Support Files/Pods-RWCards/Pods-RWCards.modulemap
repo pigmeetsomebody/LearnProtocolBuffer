@@ -1,0 +1,6 @@
+framework module Pods_RWCards {
+  umbrella header "Pods-RWCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
